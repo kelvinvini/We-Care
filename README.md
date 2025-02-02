@@ -9,4 +9,8 @@
 
 <img src="https://github.com/kelvinvini/We-Care/blob/main/we%20care%20mobile%20novo.png">
 
+<h2>Site Desktop</h2>
+
+<img src="https://github.com/kelvinvini/We-Care/blob/main/we%20care%20desktop.png">
+
 
