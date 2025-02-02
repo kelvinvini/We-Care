@@ -17,7 +17,7 @@ main {
     display: inline-block;
     flex-direction: column;
     margin: auto 0px auto 50px;
-    position: static;
+    position: absolute;
 }
 
 
