@@ -10,6 +10,9 @@
 <img src="https://github.com/kelvinvini/We-Care/blob/main/we%20care%20mobile%20novo.png">   
 
  <h2>Site visível para :computer:</h2>
+ <br>
+ <br>
+ 
 
 <img src="https://github.com/kelvinvini/We-Care/blob/main/we%20care%20desktop.png">
 
